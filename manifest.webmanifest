@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Stronger — Offline Workout Log",
+  "short_name": "Stronger",
+  "description": "A fully offline 12-week workout tracker with progress reviews and spreadsheet exports.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c111b",
+  "theme_color": "#0c111b",
+  "icons": [
+    {"src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
